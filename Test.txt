@@ -1,0 +1,14 @@
+What follows Monday?
+	Tuesday.
+What follows Tuesday?
+	Wednesday.
+What follows Wednesday?
+	Thursday.
+What follows Thursday?
+	Friday.
+What follows Friday?
+	Saturday.
+What follows Saturday?
+	Sunday.
+What follows Sunday?
+	Monday.
